@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomDraw"></declare-styleable>
+    <declare-styleable name="CustomDraw_pX"></declare-styleable>
+    <declare-styleable name="CustomDraw_pY"></declare-styleable>
+</resources>
